@@ -1,68 +1,85 @@
-<div align="center">
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&height=80&lines=NAHU.exe;SYSTEM+ONLINE;WELCOME+TO+MY+WORLD" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=35&lines=%3E+Building+digital+experiences...;%3E+Exploring+the+unknown...;%3E+Turning+ideas+into+reality..." /><br/>""GitHub" (https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF9C)" (https://github.com/nahidulxsr-gif)
+""Telegram" (https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=00FF9C)" (https://t.me/Earning_with_Nahid)
+""Profile Views" (https://komarev.com/ghpvc/?username=nahidulxsr-gif&style=for-the-badge&color=000000&label=VISITORS)" (https://github.com/nahidulxsr-gif)
 
-<img src="hero.svg" alt="NAHU — Nahidul Islam. Digital identity banner" width="100%" />
+<br/>"[ PLAYER 01 ]"   " [ DEVELOPER MODE ]"   "[ ONLINE ]"
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=FF8A1F&center=true&vCenter=true&width=680&lines=Designing+Ideas.;Building+Digital+Experiences.;Creative+Developer+%C2%B7+Bangladesh" alt="Animated tagline: Designing Ideas. Building Digital Experiences." />
+</div>---
 
-<br/>
+<code>01 // PLAYER PROFILE</code>
 
-<a href="https://github.com/nahidulxsr-gif"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-nahidulxsr--gif-0B0B12?style=for-the-badge&logo=github&logoColor=FF6A00&labelColor=17101F" /></a>
-<a href="https://t.me/Earning_with_Nahid"><img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-Earning__with__Nahid-0B0B12?style=for-the-badge&logo=telegram&logoColor=22D3EE&labelColor=17101F" /></a>
-<a href="https://t.me/NaHu_TriX"><img alt="Telegram Community" src="https://img.shields.io/badge/COMMUNITY-NaHu__TriX-0B0B12?style=for-the-badge&logo=telegram&logoColor=8B5CF6&labelColor=17101F" /></a>
+┌─────────────────────────────────────────────┐
+│              SYSTEM IDENTITY                │
+├─────────────────────────────────────────────┤
+│                                             │
+│  NAME       : Nahidul Islam                 │
+│  CODENAME   : NAHU                          │
+│  LOCATION   : Bangladesh                    │
+│  STATUS     : Always Learning               │
+│  MISSION    : Build Something Extraordinary │
+│                                             │
+└─────────────────────────────────────────────┘
 
-<br/><br/>
+I'm Nahidul Islam, also known as NAHU.
 
-<img src="nahid-hero.png" alt="Stylized 3D-look illustration of a developer with headphones at a laptop, surrounded by floating holographic interfaces in orange, purple and cyan light" width="100%" />
+A curious digital creator exploring technology, coding, and creative ideas. I enjoy experimenting with tools and building things that turn imagination into reality.
+
+«"Think Different. Code Different. Build Different."»
+
+---
+
+<code>02 // TECH ARSENAL</code>
+
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,python,firebase,git,github,vscode&theme=dark" /></div>---
+
+<code>03 // TERMINAL</code>
+
+const nahu = {
+    name: "Nahidul Islam",
+    alias: "NAHU",
+    country: "Bangladesh",
+
+    interests: [
+        "Creative Development",
+        "Web Technologies",
+        "Python",
+        "Cloud Technology",
+        "Automation"
+    ],
+
+    mindset: "Never Stop Exploring",
+
+    execute() {
+        return "Ideas -> Code -> Reality";
+    }
+};
+
+console.log(nahu.execute());
+
+---
+
+<code>04 // SYSTEM STATISTICS</code>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nahidulxsr-gif&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF9C&icon_color=8B5CF6&text_color=FFFFFF" width="90%" /><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidulxsr-gif&layout=compact&hide_border=true&bg_color=000000&title_color=00FF9C&text_color=FFFFFF" width="75%" /><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidulxsr-gif&theme=dark&hide_border=true&background=000000&ring=00FF9C&fire=8B5CF6&currStreakLabel=00FF9C" width="90%" /></div>---
+
+<code>05 // CONNECTION</code>
+
+<div align="center"><a href="https://github.com/nahidulxsr-gif">
+<img src="https://img.shields.io/badge/ACCESS_GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF9C" />
+</a><a href="https://t.me/Earning_with_Nahid">
+<img src="https://img.shields.io/badge/CONNECT_TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=8B5CF6" />
+</a><a href="https://t.me/NaHu_TriX">
+<img src="https://img.shields.io/badge/JOIN_COMMUNITY-000000?style=for-the-badge&logo=telegram&logoColor=00FF9C" />
+</a><br/><br/>
+
+[ SYSTEM MESSAGE ]
+
+Curiosity is the fuel.
+Creativity is the weapon.
+Code is the language.
+
+> END OF TRANSMISSION_
+
+<br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&height=35&lines=THANKS+FOR+VISITING;KEEP+BUILDING.+KEEP+EVOLVING." /><sub>© 2026 NAHU · DIGITAL IDENTITY</sub>
 
 </div>
-
-<img src="divider.svg" alt="" width="100%" />
-
-## ◆ ABOUT
-
-Hi, I'm **Nahidul Islam** — **NAHU** to friends. An independent builder from Bangladesh who loves turning ideas into digital things.
-
-I explore modern tools, learn by building, and share the journey here. Curious first. Purposeful always.
-
-<img src="divider.svg" alt="" width="100%" />
-
-## ◆ CREATIVE TOOLKIT
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,firebase,git,github,vscode&theme=dark" alt="Toolkit: HTML, CSS, JavaScript, Python, Firebase, Git, GitHub, VS Code" />
-
-</div>
-
-<img src="divider.svg" alt="" width="100%" />
-
-## ◆ PERSONAL JOURNEY
-
-<img src="background.svg" alt="Journey: Learn, Experiment, Build, Improve" width="100%" />
-
-<img src="divider.svg" alt="" width="100%" />
-
-## ◆ GITHUB ACTIVITY
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nahidulxsr-gif&show_icons=true&hide_border=true&bg_color=0B0B12&title_color=FF6A00&icon_color=8B5CF6&text_color=F5F5F7&ring_color=22D3EE&border_radius=16" alt="GitHub stats for nahidulxsr-gif" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidulxsr-gif&layout=compact&hide_border=true&bg_color=0B0B12&title_color=FF6A00&text_color=F5F5F7&border_radius=16" alt="Most used languages" />
-
-</div>
-
-<img src="divider.svg" alt="" width="100%" />
-
-## ◆ CONNECT
-
-<div align="center">
-
-<a href="https://github.com/nahidulxsr-gif"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-FOLLOW-FF6A00?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://t.me/Earning_with_Nahid"><img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-MESSAGE-22D3EE?style=for-the-badge&logo=telegram&logoColor=0B0B12" /></a>
-<a href="https://t.me/NaHu_TriX"><img alt="Telegram Community" src="https://img.shields.io/badge/COMMUNITY-JOIN-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
-<img src="footer.svg" alt="Build with curiosity. Create with purpose." width="100%" />
