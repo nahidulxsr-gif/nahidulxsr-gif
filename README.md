@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="NAHU — Nahidul Islam. Digital identity banner" width="100%" />
+<img src="hero.svg" alt="NAHU — Nahidul Islam. Digital identity banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=FF8A1F&center=true&vCenter=true&width=680&lines=Designing+Ideas.;Building+Digital+Experiences.;Creative+Developer+%C2%B7+Bangladesh" alt="Animated tagline: Designing Ideas. Building Digital Experiences." />
 
@@ -12,11 +12,11 @@
 
 <br/><br/>
 
-<img src="./assets/nahid-hero.png" alt="Stylized 3D-look illustration of a developer with headphones at a laptop, surrounded by floating holographic interfaces in orange, purple and cyan light" width="100%" />
+<img src="nahid-hero.png" alt="Stylized 3D-look illustration of a developer with headphones at a laptop, surrounded by floating holographic interfaces in orange, purple and cyan light" width="100%" />
 
 </div>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 ## ◆ ABOUT
 
@@ -24,7 +24,7 @@ Hi, I'm **Nahidul Islam** — **NAHU** to friends. An independent builder from B
 
 I explore modern tools, learn by building, and share the journey here. Curious first. Purposeful always.
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 ## ◆ CREATIVE TOOLKIT
 
@@ -34,13 +34,13 @@ I explore modern tools, learn by building, and share the journey here. Curious f
 
 </div>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 ## ◆ PERSONAL JOURNEY
 
-<img src="./assets/background.svg" alt="Journey: Learn, Experiment, Build, Improve" width="100%" />
+<img src="background.svg" alt="Journey: Learn, Experiment, Build, Improve" width="100%" />
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 ## ◆ GITHUB ACTIVITY
 
@@ -51,7 +51,7 @@ I explore modern tools, learn by building, and share the journey here. Curious f
 
 </div>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 ## ◆ CONNECT
 
@@ -65,4 +65,4 @@ I explore modern tools, learn by building, and share the journey here. Curious f
 
 <br/>
 
-<img src="./assets/footer.svg" alt="Build with curiosity. Create with purpose." width="100%" />
+<img src="footer.svg" alt="Build with curiosity. Create with purpose." width="100%" />
