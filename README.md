@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="NAHID - Nahidul Islam" width="100%" />
+<img src="hero.svg" alt="NAHID - Nahidul Islam" width="100%" />
 
 <br/>
 
