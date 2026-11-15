@@ -1,106 +1,68 @@
 <div align="center">
 
-<img src="hero.svg" alt="NAHID - Nahidul Islam" width="100%" />
+<img src="./assets/hero.svg" alt="NAHU — Nahidul Islam. Digital identity banner" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=FF8A1F&center=true&vCenter=true&width=680&lines=Designing+Ideas.;Building+Digital+Experiences.;Creative+Developer+%C2%B7+Bangladesh" alt="Animated tagline: Designing Ideas. Building Digital Experiences." />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=900&color=FF7900&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Nahid+%F0%9F%91%8B;Designing+Ideas.+Building+Digital+Experiences.;Web+%C2%B7+Python+%C2%B7+Cloud+%C2%B7+Automation" alt="Typing" />
+<a href="https://github.com/nahidulxsr-gif"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-nahidulxsr--gif-0B0B12?style=for-the-badge&logo=github&logoColor=FF6A00&labelColor=17101F" /></a>
+<a href="https://t.me/Earning_with_Nahid"><img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-Earning__with__Nahid-0B0B12?style=for-the-badge&logo=telegram&logoColor=22D3EE&labelColor=17101F" /></a>
+<a href="https://t.me/NaHu_TriX"><img alt="Telegram Community" src="https://img.shields.io/badge/COMMUNITY-NaHu__TriX-0B0B12?style=for-the-badge&logo=telegram&logoColor=8B5CF6&labelColor=17101F" /></a>
 
 <br/><br/>
 
-<a href="https://github.com/nahidulxsr-gif">
-<img src="https://img.shields.io/badge/GITHUB-NAHIDULXSR--GIF-171717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://t.me/Earning_with_Nahid">
-<img src="https://img.shields.io/badge/TELEGRAM-CONNECT-FF7900?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=nahidulxsr-gif&style=for-the-badge&color=FF7900&label=PROFILE+VIEWS" />
-
-**INDEPENDENT BUILDER · TECH EXPLORER · DIGITAL CREATOR**
+<img src="./assets/nahid-hero.png" alt="Stylized 3D-look illustration of a developer with headphones at a laptop, surrounded by floating holographic interfaces in orange, purple and cyan light" width="100%" />
 
 </div>
 
----
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-## 01 / ABOUT ME
+## ◆ ABOUT
 
-Hey, I'm **Nahidul Islam (Nahid)** — a curious builder from Bangladesh 🇧🇩 who loves turning ideas into real digital products.
+Hi, I'm **Nahidul Islam** — **NAHU** to friends. An independent builder from Bangladesh who loves turning ideas into digital things.
 
-I create useful things, explore modern tools, and learn by building. This GitHub is where I document that journey.
+I explore modern tools, learn by building, and share the journey here. Curious first. Purposeful always.
 
-| | |
-|---|---|
-| 🎯 **Focus** | Personal projects, web experiences, practical tools |
-| 📚 **Learning** | Web development, Python, cloud technologies |
-| ⚡ **Approach** | Stay curious. Build with purpose. Improve continuously. |
+<img src="./assets/divider.svg" alt="" width="100%" />
 
----
-
-## 02 / TOOLKIT
+## ◆ CREATIVE TOOLKIT
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,firebase,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,firebase,git,github,vscode&theme=dark" alt="Toolkit: HTML, CSS, JavaScript, Python, Firebase, Git, GitHub, VS Code" />
 
 </div>
 
----
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-## 03 / SELECTED WORK
+## ◆ PERSONAL JOURNEY
+
+<img src="./assets/background.svg" alt="Journey: Learn, Experiment, Build, Improve" width="100%" />
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+## ◆ GITHUB ACTIVITY
 
 <div align="center">
 
-<a href="https://github.com/nahidulxsr-gif/gemini"><img src="https://img.shields.io/badge/01-GEMINI-171717?style=for-the-badge&logo=github&logoColor=FF7900" /></a>
-<a href="https://github.com/nahidulxsr-gif/nahidtrix"><img src="https://img.shields.io/badge/02-NAHIDTRIX-171717?style=for-the-badge&logo=github&logoColor=FF7900" /></a>
-<a href="https://github.com/nahidulxsr-gif/shop-py"><img src="https://img.shields.io/badge/03-SHOP--PY-171717?style=for-the-badge&logo=github&logoColor=FF7900" /></a>
-<a href="https://github.com/nahidulxsr-gif/ton-wallet"><img src="https://img.shields.io/badge/04-TON--WALLET-171717?style=for-the-badge&logo=github&logoColor=FF7900" /></a>
-<a href="https://github.com/nahidulxsr-gif/bKashpay"><img src="https://img.shields.io/badge/05-BKASHPAY-171717?style=for-the-badge&logo=github&logoColor=FF7900" /></a>
-<a href="https://github.com/nahidulxsr-gif/SS-INCOME-ZONE"><img src="https://img.shields.io/badge/06-SS--INCOME--ZONE-171717?style=for-the-badge&logo=github&logoColor=FF7900" /></a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nahidulxsr-gif&show_icons=true&hide_border=true&bg_color=0B0B12&title_color=FF6A00&icon_color=8B5CF6&text_color=F5F5F7&ring_color=22D3EE&border_radius=16" alt="GitHub stats for nahidulxsr-gif" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidulxsr-gif&layout=compact&hide_border=true&bg_color=0B0B12&title_color=FF6A00&text_color=F5F5F7&border_radius=16" alt="Most used languages" />
 
 </div>
 
-> 🚧 New experiments and original projects will be added here as they grow.
+<img src="./assets/divider.svg" alt="" width="100%" />
 
----
-
-## 04 / GITHUB SNAPSHOT
+## ◆ CONNECT
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nahidulxsr-gif&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF7900&icon_color=FF7900&text_color=E6EDF3" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidulxsr-gif&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF7900&text_color=E6EDF3" height="165" />
+<a href="https://github.com/nahidulxsr-gif"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-FOLLOW-FF6A00?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://t.me/Earning_with_Nahid"><img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-MESSAGE-22D3EE?style=for-the-badge&logo=telegram&logoColor=0B0B12" /></a>
+<a href="https://t.me/NaHu_TriX"><img alt="Telegram Community" src="https://img.shields.io/badge/COMMUNITY-JOIN-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidulxsr-gif&theme=dark&hide_border=true&ring=FF7900&fire=FF7900&currStreakLabel=FF7900" height="165" />
-
-</div>
-
----
-
-## 05 / LET'S CONNECT
-
-<div align="center">
-
-<a href="https://t.me/Earning_with_Nahid">
-<img src="https://img.shields.io/badge/TELEGRAM-@Earning__with__Nahid-FF7900?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://t.me/NaHu_TriX">
-<img src="https://img.shields.io/badge/TELEGRAM-NaHu__TriX-171717?style=for-the-badge&logo=telegram&logoColor=FF7900" />
-</a>
-
-**Have an idea or want to connect? Feel free to reach out.**
-
-</div>
-
----
-
-<div align="center">
-
-### BUILD WITH CURIOSITY. CREATE WITH PURPOSE.
-
-<sub>© Nahidul Islam · Thanks for stopping by — more projects are on the way.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7900,50:1B100A,100:0B0B0F&height=90&section=footer" width="100%" />
-
-</div>
+<img src="./assets/footer.svg" alt="Build with curiosity. Create with purpose." width="100%" />
