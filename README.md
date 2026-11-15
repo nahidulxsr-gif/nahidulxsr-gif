@@ -1,85 +1,96 @@
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&height=80&lines=NAHU.exe;SYSTEM+ONLINE;WELCOME+TO+MY+WORLD" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=35&lines=%3E+Building+digital+experiences...;%3E+Exploring+the+unknown...;%3E+Turning+ideas+into+reality..." /><br/>""GitHub" (https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF9C)" (https://github.com/nahidulxsr-gif)
-""Telegram" (https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=00FF9C)" (https://t.me/Earning_with_Nahid)
-""Profile Views" (https://komarev.com/ghpvc/?username=nahidulxsr-gif&style=for-the-badge&color=000000&label=VISITORS)" (https://github.com/nahidulxsr-gif)
+<div align="center">
 
-<br/>"[ PLAYER 01 ]"   " [ DEVELOPER MODE ]"   "[ ONLINE ]"
+# 🔥 NAHU
 
-</div>---
+### Building Ideas Into Digital Reality
 
-<code>01 // PLAYER PROFILE</code>
+*Creative Developer • Tech Enthusiast • Independent Builder*
 
-┌─────────────────────────────────────────────┐
-│              SYSTEM IDENTITY                │
-├─────────────────────────────────────────────┤
-│                                             │
-│  NAME       : Nahidul Islam                 │
-│  CODENAME   : NAHU                          │
-│  LOCATION   : Bangladesh                    │
-│  STATUS     : Always Learning               │
-│  MISSION    : Build Something Extraordinary │
-│                                             │
-└─────────────────────────────────────────────┘
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:ff6b00,100:111111&height=180&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-I'm Nahidul Islam, also known as NAHU.
+[![GitHub](https://img.shields.io/badge/GitHub-nahidulxsr--gif-111111?style=for-the-badge&logo=github)](https://github.com/nahidulxsr-gif)
+[![Telegram](https://img.shields.io/badge/Telegram-Connect-111111?style=for-the-badge&logo=telegram)](https://t.me/Earning_with_Nahid)
 
-A curious digital creator exploring technology, coding, and creative ideas. I enjoy experimenting with tools and building things that turn imagination into reality.
-
-«"Think Different. Code Different. Build Different."»
+</div>
 
 ---
 
-<code>02 // TECH ARSENAL</code>
+## 👨‍💻 About Me
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,python,firebase,git,github,vscode&theme=dark" /></div>---
+Hello! I'm **NAHU**, a creative individual passionate about technology and building digital projects.
 
-<code>03 // TERMINAL</code>
-
-const nahu = {
-    name: "Nahidul Islam",
-    alias: "NAHU",
-    country: "Bangladesh",
-
-    interests: [
-        "Creative Development",
-        "Web Technologies",
-        "Python",
-        "Cloud Technology",
-        "Automation"
-    ],
-
-    mindset: "Never Stop Exploring",
-
-    execute() {
-        return "Ideas -> Code -> Reality";
-    }
-};
-
-console.log(nahu.execute());
+- 🚀 Creating my own digital projects.
+- 💻 Exploring Web Development and Python.
+- 🧠 Learning new technologies and improving my skills.
+- 🎯 Focused on turning creative ideas into useful products.
+- 🌍 Based in Bangladesh.
 
 ---
 
-<code>04 // SYSTEM STATISTICS</code>
+## 🛠️ Technologies & Tools
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nahidulxsr-gif&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF9C&icon_color=8B5CF6&text_color=FFFFFF" width="90%" /><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidulxsr-gif&layout=compact&hide_border=true&bg_color=000000&title_color=00FF9C&text_color=FFFFFF" width="75%" /><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidulxsr-gif&theme=dark&hide_border=true&background=000000&ring=00FF9C&fire=8B5CF6&currStreakLabel=00FF9C" width="90%" /></div>---
+<div align="center">
 
-<code>05 // CONNECTION</code>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,firebase,git,github,vscode&theme=dark" />
 
-<div align="center"><a href="https://github.com/nahidulxsr-gif">
-<img src="https://img.shields.io/badge/ACCESS_GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF9C" />
-</a><a href="https://t.me/Earning_with_Nahid">
-<img src="https://img.shields.io/badge/CONNECT_TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=8B5CF6" />
-</a><a href="https://t.me/NaHu_TriX">
-<img src="https://img.shields.io/badge/JOIN_COMMUNITY-000000?style=for-the-badge&logo=telegram&logoColor=00FF9C" />
-</a><br/><br/>
+</div>
 
-[ SYSTEM MESSAGE ]
+---
 
-Curiosity is the fuel.
-Creativity is the weapon.
-Code is the language.
+## 🚀 My Featured Projects
 
-> END OF TRANSMISSION_
+<div align="center">
 
-<br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&height=35&lines=THANKS+FOR+VISITING;KEEP+BUILDING.+KEEP+EVOLVING." /><sub>© 2026 NAHU · DIGITAL IDENTITY</sub>
+<a href="https://github.com/nahidulxsr-gif/gemini">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidulxsr-gif&repo=gemini&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/nahidulxsr-gif/nahidtrix">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidulxsr-gif&repo=nahidtrix&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/nahidulxsr-gif/shop-py">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidulxsr-gif&repo=shop-py&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/nahidulxsr-gif/ton-wallet">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidulxsr-gif&repo=ton-wallet&theme=transparent&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nahidulxsr-gif&show_icons=true&theme=transparent&hide_border=true&title_color=ff6b00&icon_color=ff6b00" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidulxsr-gif&theme=transparent&hide_border=true&ring=ff6b00&fire=ff6b00" />
+
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidulxsr-gif&layout=compact&theme=transparent&hide_border=true&title_color=ff6b00" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Earning__with__Nahid-ff6b00?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Earning_with_Nahid)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github)](https://github.com/nahidulxsr-gif)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Keep Building. Keep Creating. Keep Growing.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:ff6b00,100:111111&height=100&section=footer" width="100%" />
 
 </div>
